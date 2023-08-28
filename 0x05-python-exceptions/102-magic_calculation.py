@@ -5,7 +5,7 @@ def magic_calculation(a, b):
     for n in range(1, 3):
         try:
             if n > a:
-                raise ValueError('Too large')
+                raise ValueError('Too far')
             else:
                 result += a ** b / n
         except ValueError as ve:
