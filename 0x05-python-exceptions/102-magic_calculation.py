@@ -8,8 +8,7 @@ def magic_calculation(a, b):
                 raise ValueError('Too far')
             else:
                 result += a ** b / n
-        except ValueError as ve:
-            print(f"Caught a ValueError: {ve}")
+        except ValueError:
             result = b + a
             break
     return result
