@@ -1,4 +1,0 @@
-[master 8a95d2e] Write a script that lists all records with a score 10 in the table second_table of the database hbtn_0c_0 in your MySQL server
- 2 files changed, 3 insertions(+), 3 deletions(-)
- create mode 100644 0x0D-SQL_introduction/=
-[H[2J[3J
