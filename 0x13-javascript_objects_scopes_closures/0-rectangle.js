@@ -1,6 +1,6 @@
 #!/usr/bin/node
 /**
- * Represents a rectangle
+ * Rep a rectangle
  */
 class Rectangle {}
 
