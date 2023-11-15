@@ -2,6 +2,7 @@
 /**
  * Square class that inherits from previous square class
  */
+
 const PrevSquare = require('./5-square');
 
 class Square extends PrevSquare {
